@@ -1,0 +1,184 @@
+body{
+    background-image: url(immagini/Senza\ titolo-1.png);
+}
+.header{
+    max-width: 1200px;
+    height: 70px;
+background-color: #283223;
+margin: auto;
+font-family: Arial, Helvetica, sans-serif;
+}
+.menu{
+    width: 40px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.search{
+    width: 40px;
+    margin-top: 15px;
+    margin-left: 10px;
+   
+}
+.cerca{
+    left: 490px;
+    
+}
+.titolo{
+color: rgb(255, 208, 0);
+font-family: 'Times New Roman', Times, serif;
+text-align: right;
+font-size: 100px;
+padding-left: 10px;
+padding-top: 10px;
+margin-top: -47%;
+margin-right: 20px;
+}
+.sottotitolo{
+    text-align: right;
+    margin-top: -68px;
+    margin-right: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+font-size: 25px;
+color: #EDCA63;
+}
+.body{
+
+    background-color: #485B3F;
+    margin: auto;
+    max-width: 1200px;
+    padding-top: 5px;
+    padding-bottom: 1%;
+}
+.tovaglia1{
+    max-width: 1200px;
+    margin-top: -5px;
+}
+.divisore{
+    margin-top: 250px;
+}
+.egitto{
+    color: rgb(255, 208, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    margin-left: 800px;
+    margin-top: -70%;
+}
+.egittotxt{
+    color: rgb(27, 27, 27);
+    border-radius: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1100px;
+    margin-left: 55px;
+    text-align: left;
+    margin-bottom: 30%;
+    Width:969px;;
+    Top:1581px;
+    Left: 330pxpx;
+    padding: 25px;
+    backface-visibility: hidden;
+    width: 969px;
+    height: 434px;
+    left: 345px;
+    top: 1581px;
+    background: #FCDE8D;
+    border-radius: 79px;
+    
+}
+.angolofag{
+margin-top: 30%;
+
+}
+.scozia{
+    color: rgb(255, 208, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    margin-right: 800px;
+    text-align: right;
+    margin-top: -60%;
+}
+.angolosal{
+margin-left: 303px;
+}
+.scoziatxt{
+    color: rgb(27, 27, 27);
+    border-radius: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1100px;
+    margin-left: 115px;
+    text-align: left;
+    margin-bottom: 30%;
+    Width:969px;;
+    Top:1581px;
+    left: 330px;
+    padding: 40px;
+    backface-visibility: hidden;
+    width: 969px;
+    height: 434px;
+    left: 345px;
+    top: 1581px;
+    background: #FCDE8D;
+    border-radius: 79px;
+}
+.polonia{
+    color: rgb(255, 208, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    margin-left: 850px;
+    margin-top: -70%;
+}
+.poloniatxt{
+    color: rgb(27, 27, 27);
+    border-radius: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1100px;
+    margin-left: 55px;
+    text-align: left;
+    margin-bottom: 30%;
+    Width:969px;;
+    Top:1581px;
+    Left: 330pxpx;
+    padding: 25px;
+    backface-visibility: hidden;
+    width: 969px;
+    height: 434px;
+    left: 345px;
+    top: 1581px;
+    background: #FCDE8D;
+    border-radius: 79px;
+    
+}
+.tovaglia2{
+    max-width: 1200px;
+    margin-bottom: -16px;
+}
+.footer{
+    height: 6cm;
+    background-color: #171b14;
+    max-width: 1200px;
+    margin-bottom: -100px;
+}
+.toast{
+    max-width: 300px;
+    margin-left: 450px;
+    margin-top: -150px;
+    rotate: 30grad;
+}
+.saluti{
+    color: #EDCA63;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-top: -100px;
+}
+.final{
+        color: rgb(255, 208, 0);
+        font-family: 'Times New Roman', Times, serif;
+        text-align: left;
+        line-height: 10PX;
+        font-size: 90px;
+        padding-left: 10px;
+        padding-top: 10px;
+        margin-top: -120px;
+}
